@@ -13,7 +13,8 @@
 title: Huiching Kang
 
 # Your name to show in the footer
-author: Huiching Kang
+author:
+  name: Huiching Kang
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -21,10 +22,7 @@ author: Huiching Kang
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Resume: "CSV.pdf"
 
 ################
 # --- Logo --- #
@@ -60,7 +58,7 @@ social-network-links:
 # whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
-  linkedin: clairekang6984
+  linkedin: www.linkedin.com/in/clairekang6984
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
